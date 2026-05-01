@@ -56,5 +56,5 @@ Relational Database Concepts
    
 **INFERENCE** :- We wanted to analyze the key features and trends of IPL Dataset based on which we could determine which team had performed well. In my analysis, I have tried to add knowledge about finding number of boundaries by location, date wise matches, good and bad players and many more. Actually, this analysis is for understanding the SQL language which itself helps to draw a lot of useful insights. And also, helps to know more about different players and teams performance, strategy, etc.
 
-**Conclusion:** This project demonstrates how SQL can be effectively used to analyze large-scale sports datasets and generate meaningful insights. The analysis not only highlights player and team performance but also uncovers hidden trends that can influence match strategies.
+**CONCLUSION:** This project demonstrates how SQL can be effectively used to analyze large-scale sports datasets and generate meaningful insights. The analysis not only highlights player and team performance but also uncovers hidden trends that can influence match strategies.
 Additionally, this project strengthened core SQL skills such as data querying, aggregation, and deriving business insights from structured datasets.
